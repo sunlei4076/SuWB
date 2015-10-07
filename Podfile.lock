@@ -1,0 +1,13 @@
+PODS:
+  - FontBlaster (2.0.0)
+  - MJRefresh (2.4.11)
+
+DEPENDENCIES:
+  - FontBlaster
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  FontBlaster: 7ca77a8608a3bfe98bf726de714782176902cc34
+  MJRefresh: b327947f35ab3eb16ca42646b26f7347e6aa7186
+
+COCOAPODS: 0.38.2
